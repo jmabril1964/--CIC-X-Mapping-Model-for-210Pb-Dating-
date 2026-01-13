@@ -1,0 +1,17 @@
+
+{
+  "Core_data": "Core_C1.txt",
+  "A0_central": 559.2,
+  "w_central": 0.0385,
+  "sw_central": 0.20,
+  "OP_LN_w": false,
+  "f_A": 0.15,
+  "f_w": 0.10,
+  "f_sw": 0.25,
+  "NR":50,
+  "kr":9,
+  "Tmr":43.0,
+  "sgt":1.0,
+  "peso":0,
+  "interesting_parameters": false
+}
