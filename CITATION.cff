@@ -1,0 +1,20 @@
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "X_CIC — χ-Mapping Model for ²¹⁰Pb Dating"
+version: "1.0.0"
+date-released: 2025-12-01
+authors:
+  - family-names: "Abril-Hernández"
+    given-names: "J.M."
+    orcid: "https://orcid.org/0000-0003-2540-5576"
+    affiliation: "University of Seville — Department of Applied Physics I"
+doi: "10.5281/zenodo.17289007"
+url: "https://github.com/jmabril1964/X_CIC"
+license: "MIT"
+keywords:
+  - "210Pb dating"
+  - "sediment chronology"
+  - "χ-mapping"
+  - "Python"
+abstract: "Python implementation of the X_CIC χ-mapping model for ²¹⁰Pb sediment dating assuming constant initial activity concentration. Generates 3D parameter maps, confidence regions, and chronology outputs."
